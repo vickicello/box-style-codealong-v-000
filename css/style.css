@@ -224,7 +224,6 @@ header {
 
 #navbar nav {
   border-left: 1px solid #ccc;
-
 }
 
 #navbar nav a {
@@ -315,14 +314,18 @@ background: linear-gradient(
 
 /*////////// LOGO //////////*/
 
-
+#logo {
+  padding: 84px 0 0;
+}
 
 #logo h1 {
   font-family: 'Clicker Script', cursive;
+  margin: 0;
 }
 
 #logo h2 {
   font-family: 'Elsie Swash Caps', cursive;
+  margin: 0;
 }
 
 /*////////// MAIN SECTIONS //////////*/
